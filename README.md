@@ -6,6 +6,7 @@
 </head>
 <body>
     <h1>Welcome to My Website</h1>
+    <h1>Adding some lines</h1>
     <p>This is a simple HTML page.</p>
     <button onclick="alert('Hello!')">Click Me</button>
 </body>
