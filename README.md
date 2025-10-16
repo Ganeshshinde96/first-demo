@@ -8,6 +8,7 @@
     <h1>Welcome to My Website</h1>
     <p>This is a simple HTML page.</p>
     <button onclick="alert('Hello!')">Click Me</button>
+    <h1> Kartik is my Friend</h1>
 </body>
 </html>
 
